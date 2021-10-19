@@ -1,0 +1,12 @@
+/Users/elifbas/Projects/MarsRover_ElifBas/MarsRover/bin/Debug/netcoreapp3.1/MarsRover.deps.json
+/Users/elifbas/Projects/MarsRover_ElifBas/MarsRover/bin/Debug/netcoreapp3.1/MarsRover.runtimeconfig.json
+/Users/elifbas/Projects/MarsRover_ElifBas/MarsRover/bin/Debug/netcoreapp3.1/MarsRover.runtimeconfig.dev.json
+/Users/elifbas/Projects/MarsRover_ElifBas/MarsRover/bin/Debug/netcoreapp3.1/MarsRover.dll
+/Users/elifbas/Projects/MarsRover_ElifBas/MarsRover/bin/Debug/netcoreapp3.1/MarsRover.pdb
+/Users/elifbas/Projects/MarsRover_ElifBas/MarsRover/obj/Debug/netcoreapp3.1/MarsRover.csprojAssemblyReference.cache
+/Users/elifbas/Projects/MarsRover_ElifBas/MarsRover/obj/Debug/netcoreapp3.1/MarsRover.AssemblyInfoInputs.cache
+/Users/elifbas/Projects/MarsRover_ElifBas/MarsRover/obj/Debug/netcoreapp3.1/MarsRover.AssemblyInfo.cs
+/Users/elifbas/Projects/MarsRover_ElifBas/MarsRover/obj/Debug/netcoreapp3.1/MarsRover.csproj.CoreCompileInputs.cache
+/Users/elifbas/Projects/MarsRover_ElifBas/MarsRover/obj/Debug/netcoreapp3.1/MarsRover.dll
+/Users/elifbas/Projects/MarsRover_ElifBas/MarsRover/obj/Debug/netcoreapp3.1/MarsRover.pdb
+/Users/elifbas/Projects/MarsRover_ElifBas/MarsRover/obj/Debug/netcoreapp3.1/MarsRover.genruntimeconfig.cache
